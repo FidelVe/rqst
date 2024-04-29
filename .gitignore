@@ -1,0 +1,4 @@
+.env
+*.bkp*
+*.swp*
+node_modules
