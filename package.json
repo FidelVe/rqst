@@ -1,0 +1,26 @@
+{
+  "name": "rqst",
+  "version": "0.0.1",
+  "description": "simple package for making http/https request, is like my personal axios but simpler (much simpler)",
+  "main": "rqst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FidelVe/rqst.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "axios",
+    "request",
+    "query"
+  ],
+  "author": "FidelVe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FidelVe/rqst/issues"
+  },
+  "homepage": "https://github.com/FidelVe/rqst#readme"
+}
